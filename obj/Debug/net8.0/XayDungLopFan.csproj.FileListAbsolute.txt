@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\bin\Debug\net8.0\XayDungLopFan.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\bin\Debug\net8.0\XayDungLopFan.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\bin\Debug\net8.0\XayDungLopFan.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\bin\Debug\net8.0\XayDungLopFan.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\bin\Debug\net8.0\XayDungLopFan.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\obj\Debug\net8.0\XayDungLopFan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\obj\Debug\net8.0\XayDungLopFan.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\obj\Debug\net8.0\XayDungLopFan.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\obj\Debug\net8.0\XayDungLopFan.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\obj\Debug\net8.0\XayDungLopFan.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\obj\Debug\net8.0\refint\XayDungLopFan.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\obj\Debug\net8.0\XayDungLopFan.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\obj\Debug\net8.0\XayDungLopFan.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopFan\obj\Debug\net8.0\ref\XayDungLopFan.dll
